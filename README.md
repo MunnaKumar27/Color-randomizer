@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# [Color-randomizer App](https://color-randomizer-react.netlify.app)
 # click to see[ Live here](https://color-randomizer-react.netlify.app)
 # screenshot on different screen size
 ![image](https://user-images.githubusercontent.com/96313339/175799244-4e4d02ba-9ec9-4c11-9f7b-27fba4a183ad.png)
